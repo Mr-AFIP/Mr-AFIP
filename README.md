@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-AFIP
 - 👀 I’m interested in python and coding 
-- 🌱 I’m currently learning web scrapping using Python
-- 💞️ I’m looking to collaborate on web scrapping projects
+- 🌱 I’m currently learning web scraping using Python
+- 💞️ I’m looking to collaborate on web scraping projects
 - 📫 giulianobecchia@gmail.com
 
 <!---
