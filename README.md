@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-AFIP
+- 👋 Hi, I’m Giuliano Becchia
 - 👀 I’m interested in python and coding 
 - 🌱 I’m currently learning web scraping using Python
 - 💞️ I’m looking to collaborate on web scraping projects
